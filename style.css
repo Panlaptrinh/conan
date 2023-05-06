@@ -5,7 +5,7 @@ body {
 }
 
 header {
-	background-color: #333;
+	background-color: #333333;
 	color: #fff;
 	padding: 20px;
 	text-align: center;
@@ -29,15 +29,15 @@ img {
 }
 
 .movie-info a {
-	color: #333;
+	color: #333333;
 }
 
 .movie-info a:hover {
-	color: #555;
+	color: #34da50;
 }
 
 .btn-watch {
-	background-color: #333;
+	background-color: #1a9baa;
 	color: #fff;
 	border: none;
 	padding: 10px 20px;
